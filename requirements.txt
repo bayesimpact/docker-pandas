@@ -1,0 +1,25 @@
+# TODO: Remove when https://github.com/eliben/pycparser/issues/147 is resolved.
+--no-binary pycparser
+
+# Scientific Data Analysis and Formats
+airtable
+csvkit
+numpy
+pandas
+sas7bdat
+scipy
+sklearn
+xmltodict
+
+# Dev Tools
+algoliasearch
+coverage
+mongomock
+nose
+nose-exclude
+nose-watch
+pep8
+pylint
+pymongo
+requests
+scrapy
