@@ -1,6 +1,4 @@
-# TODO(pascal): Switch back to python:3 when scrapy is compatible with Python 3.7
-# https://github.com/twisted/twisted/pull/966 needs to be released.
-FROM python:3.6
+FROM python:3
 
 # TODO: Investigate why this and the following requirements are needed (copied
 # over from tailordev/pandas).
