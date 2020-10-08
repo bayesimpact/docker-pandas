@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.8
 
 # TODO: Investigate why this and the following requirements are needed (copied
 # over from tailordev/pandas).
