@@ -20,4 +20,4 @@ pylint==2.6.0
 pymongo==3.11.1
 requests==2.25.0
 scrapy==2.4.1
-tqdm==4.52.0
+tqdm==4.53.0
