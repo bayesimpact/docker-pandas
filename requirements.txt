@@ -1,7 +1,7 @@
 # Scientific Data Analysis and Formats
 airtable==0.3.1
 csvkit==1.0.5
-numpy==1.20.0
+numpy==1.20.1
 pandas==1.2.0
 sas7bdat==2.2.3
 scipy==1.6.0
