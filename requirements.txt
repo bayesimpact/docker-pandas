@@ -19,5 +19,5 @@ pep8==1.7.1
 pylint==2.7.4
 pymongo==3.11.3
 requests==2.25.1
-scrapy==2.4.1
+scrapy==2.5.0
 tqdm==4.60.0
