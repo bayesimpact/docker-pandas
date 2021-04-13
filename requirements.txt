@@ -2,7 +2,7 @@
 airtable==0.4.8
 csvkit==1.0.5
 numpy==1.20.2
-pandas==1.2.3
+pandas==1.2.4
 sas7bdat==2.2.3
 scipy==1.6.2
 sklearn==0.0
