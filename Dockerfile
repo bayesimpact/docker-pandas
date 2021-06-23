@@ -1,5 +1,4 @@
-# TODO(cyrille): Update to 3.9 once we're ready.
-FROM python:3.8
+FROM python:3.9
 
 # TODO: Investigate why this and the following requirements are needed (copied
 # over from tailordev/pandas).
