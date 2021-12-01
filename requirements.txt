@@ -17,7 +17,7 @@ nose-exclude==0.5.0
 nose-watch==0.9.2
 pep8==1.7.1
 pylint==2.12.1
-pymongo==3.12.1
+pymongo==4.0
 requests==2.26.0
 scrapy==2.5.1
 tqdm==4.62.3
