@@ -4,7 +4,7 @@ csvkit==1.0.7
 numpy==1.22.3
 pandas==1.4.2
 sas7bdat==2.2.3
-scipy==1.8.0
+scipy==1.10.0
 sklearn==0.0
 xmltodict==0.12.0
 
